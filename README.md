@@ -12,8 +12,7 @@ This project implements a Space Invaders game in Java, applying various object-o
 - [Usage](#usage)
 - [File Descriptions](#file-descriptions)
 - [Object-Oriented Techniques](#object-oriented-techniques)
-- [Contributing](#contributing)
-- [License](#license)
+- [Contact](#contact)
 
 ## Folder Structure
 
